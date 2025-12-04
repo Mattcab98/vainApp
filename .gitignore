@@ -1,0 +1,18 @@
+# VainApp
+node_modules/
+.env
+.env.local
+dist/
+build/
+*.log
+
+# IDEs
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+#credenciales 
+credenciales_vainApp.txt
